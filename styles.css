@@ -1,16 +1,16 @@
 @font-face {
   font-family: RobotoBold;
-  src: url(/fonts/Roboto-Bold.ttf);
+  src: url(./fonts/Roboto-Bold.ttf);
 }
 
 @font-face {
   font-family: RobotoLight;
-  src: url(/fonts/Roboto-Light.ttf);
+  src: url(./fonts/Roboto-Light.ttf);
 }
 
 @font-face {
   font-family: RobotoLightItalic;
-  src: url(/fonts/Roboto-LightItalic.ttf);
+  src: url(./fonts/Roboto-LightItalic.ttf);
 }
 
 .quotation {
